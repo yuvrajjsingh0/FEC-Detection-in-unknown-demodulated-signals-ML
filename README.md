@@ -36,11 +36,11 @@ This folder hosts the Flask application and API for signal visualization and int
 Follow the steps below to set up and run the project:
 
 1. **Machine Learning:**
-   - Open and run the Jupyter Notebooks in the `MachineLearning` folder in sequential order (`FEC_Classification_Model_Training.ipynb`, `Model_Evaluation.ipynb`, `Model_Analysis.ipynb`).
+   - Open and run the Jupyter Notebooks in the `MachineLearning` folder in sequential order.
 
 2. **Simulation & Dataset:**
-   - Open the Matlab/Simulink models in the `Simulation&Dataset` folder (`FEC_Simulation_Models.slx`) and customize them if necessary.
-   - Run the `Dataset_Generation.m` script to generate the dataset.
+   - Open the Matlab/Simulink models in the `Simulation&Dataset` folder and customize them if necessary.
+   - Run the `*.m` script to generate the dataset.
 
 3. **Web Application:**
    - Install the required Python packages using `pip install -r WebApp/requirement.txt`.
