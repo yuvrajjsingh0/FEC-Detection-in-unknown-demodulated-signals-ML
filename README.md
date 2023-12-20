@@ -1,4 +1,4 @@
-# FEC Signal Classification Project
+# FEC EYE - FEC Signal Classification Using Convolutional Neural Networks
 
 ## Overview
 
